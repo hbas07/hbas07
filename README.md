@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Hakan</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate full stack developer from Türkiye</h3>
 
 - 🔭 I’m currently working on a **Scada Project**
 
